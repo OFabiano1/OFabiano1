@@ -7,7 +7,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="*https://cdn.discordapp.com/attachments/1285021116162904115/1285085898316447744/discotools-xyz-icon.png?ex=66e8fd01&is=66e7ab81&hm=0b194fbce7624d24e366ec198010cbae1e1bdfc9f775296b24a56584d567c61a*"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn.discordapp.com/attachments/1285021116162904115/1285085898316447744/discotools-xyz-icon.png?ex=66e8fd01&is=66e7ab81&hm=0b194fbce7624d24e366ec198010cbae1e1bdfc9f775296b24a56584d567c61a"/>](https://www.spacex.com/)
 
 **Software Engineer** \
 [**SpaceX**](https://www.spacex.com/) • Full-time \
