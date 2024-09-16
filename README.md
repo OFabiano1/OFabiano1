@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5100FF&width=435&lines=Hello+World!+Eu+sou+o+Fabi!)](https://git.io/typing-svg)
-### DONO do Cool Axolotl CLUB 💜 </h3>
 
-- 📫 How to reach me **CoolAxolotlCLUB@gmx.com**
+## DONO do Cool Axolotl CLUB 💜 </h3>
+- 📫 Entre em contato comigo! **CoolAxolotlCLUB@gmx.com** 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
