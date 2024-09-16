@@ -1,5 +1,5 @@
 <h1 align="r">Hello world! I'm Fabi! 💜 </h1>
-<h3 align="center">Owner of the Cool Axolotl CLUB</h3>
+<h3 align="center">Owner of the Cool Axolotl CLUB 💜 </h3>
 
 - 📫 How to reach me **CoolAxolotlCLUB@gmx.com**
 
