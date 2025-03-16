@@ -10,7 +10,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn.discordapp.com/attachments/1017344173843693628/1239106822108090378/discotools-xyz-icon.png?ex=67d86e67&is=67d71ce7&hm=3465c37fbba0b7d540b3a40fa903950977c3a353f8e1fbfb560eb15ec53f89d2&"/>](https://www.spacex.com/)
 
 **Dono - Chefe** \
-[**Cool Axolotl CLUB**](https://www.spacex.com/) • Full-time \
+[**Cool Axolotl CLUB**](https://www.spacex.com/) •  \
 Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, \
-Projetos em destaque: 
 <br/>
