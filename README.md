@@ -7,7 +7,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn.discordapp.com/attachments/1285021116162904115/1285085898316447744/discotools-xyz-icon.png?ex=66e8fd01&is=66e7ab81&hm=0b194fbce7624d24e366ec198010cbae1e1bdfc9f775296b24a56584d567c61a"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn.discordapp.com/attachments/1017344173843693628/1239106822108090378/discotools-xyz-icon.png?ex=67d86e67&is=67d71ce7&hm=3465c37fbba0b7d540b3a40fa903950977c3a353f8e1fbfb560eb15ec53f89d2&"/>](https://www.spacex.com/)
 
 **Dono - Chefe** \
 [**Cool Axolotl CLUB**](https://www.spacex.com/) • Full-time \
