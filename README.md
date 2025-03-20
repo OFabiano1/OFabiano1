@@ -12,7 +12,4 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Dono** \
 [**Cool Axolotl CLUB**](https://dsc.gg/axolote ) •  \
 Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, \
-
-<iframe src="https://discord.com/widget?id=994118849731506306&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 <br/>
