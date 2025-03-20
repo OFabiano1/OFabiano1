@@ -14,4 +14,4 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, \
 <br/>
 
-https://discord.com/api/guilds/994118849731506306/widget.json
+<iframe src="https://discord.com/widget?id=994118849731506306&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
