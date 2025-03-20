@@ -13,3 +13,5 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Cool Axolotl CLUB**](https://dsc.gg/axolote ) •  \
 Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, \
 <br/>
+
+https://discord.com/api/guilds/994118849731506306/widget.json
