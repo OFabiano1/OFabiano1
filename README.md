@@ -13,13 +13,4 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Cool Axolotl CLUB**](https://dsc.gg/axolote ) •  \
 Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js` \
 
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://twitter.com/ofabiano1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ofabiano1x" height="30" width="40" /></a>
-<a href="https://instagram.com/ofabiano1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ofabiano1x" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ofabiano1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ofabiano1x" height="30" width="40" /></a>
-<a href="https://discord.gg/https://dsc.gg/axolote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/axolote" height="30" width="40" /></a>
-</p>
 <br/>
