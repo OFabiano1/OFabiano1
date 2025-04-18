@@ -7,7 +7,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://postimg.cc/wyVSXwCk?ex=67d86e67&is=67d71ce7&hm=3465c37fbba0b7d540b3a40fa903950977c3a353f8e1fbfb560eb15ec53f89d2&"/>](https://dsc.gg/axolote )
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://postimg.cc/wyVSXwCk"/>](https://dsc.gg/axolote )
 
 **Dono** \
 [**Cool Axolotl CLUB**](https://dsc.gg/axolote ) •  \
