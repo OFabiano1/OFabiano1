@@ -7,7 +7,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="a" src="https://postimg.cc/wyVSXwCk"/>](https://dsc.gg/axolote )
+[<img align="left" height="94px" width="94px" alt="Logo do Cool Axolotl CLUB" src="https://i.postimg.cc/Y0KMwV8T/xd.png"/>](https://dsc.gg/axolote)
 
 **Dono** \
 [**Cool Axolotl CLUB**](https://dsc.gg/axolote ) •  \
