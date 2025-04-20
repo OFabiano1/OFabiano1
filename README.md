@@ -28,7 +28,6 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-</p>
 
 <!-- 🧠 Linguagens de Programação -->
 <p align="left">
@@ -41,7 +40,6 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   </a>
-</p>
 
 <!-- ⚙️ Ferramentas e Ambientes -->
 <p align="left">
