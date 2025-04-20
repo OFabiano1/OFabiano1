@@ -13,6 +13,16 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Cool Axolotl CLUB**](https://dsc.gg/axolote ) •  \
 Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js` 
 
+
+###
+
+
+<div align="left">
+  <a href="https://open.spotify.com/user/4c4spy8obbl3zno3sz07xiye9">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=4c4spy8obbl3zno3sz07xiye9&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
 ###
 
 <div align="left">
