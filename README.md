@@ -13,16 +13,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Cool Axolotl CLUB**](https://dsc.gg/axolote ) •  \
 Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js` 
 
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/ofabiano1">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ofabiano1&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+### -
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=OFabiano1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
