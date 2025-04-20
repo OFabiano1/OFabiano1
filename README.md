@@ -3,7 +3,7 @@
 ## 💜 Bem-vindo ao meu perfil!</h3>
 - 📫 Entre em contato comigo! **CoolAxolotlCLUB@gmx.com** 
 
-### Experiência de trabalho
+### 🛠️ Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
