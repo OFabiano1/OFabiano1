@@ -16,10 +16,9 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 
 ###
 
-
 <div align="left">
-  <a href="https://open.spotify.com/user/4c4spy8obbl3zno3sz07xiye9">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=4c4spy8obbl3zno3sz07xiye9&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/ofabiano1">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ofabiano1&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
