@@ -51,13 +51,16 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
   </a>
 </p>
 
-## 🧠 GitHub Summary Cards (Midnight Purple Style)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=dark&bg=1e1e2e&animated=true&borderRadius=15px)](https://discord.com/users/697615078085754880)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OFabiano1&theme=2077)](https://github.com/OFabiano1)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OFabiano1&theme=2077)](https://github.com/OFabiano1)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OFabiano1&theme=2077)](https://github.com/OFabiano1)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OFabiano1&theme=2077)](https://github.com/OFabiano1)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OFabiano1&theme=2077)](https://github.com/OFabiano1)
+<h2 align="center">🪐 Discord + GitHub data</h2>
+
+<p align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=dark&bg=1e1e2e&animated=true&borderRadius=15px" alt="Discord Presence" width="390"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15" alt="Top Langs" width="390"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OFabiano1&theme=2077" alt="GitHub Summary Card"/>
+</p>
 
 
 
