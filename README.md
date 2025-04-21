@@ -58,7 +58,6 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
   <div style="flex: 1; padding-right: 10px;">
     [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=dark&bg=1e1e2e&animated=true&borderRadius=15px)](https://discord.com/users/697615078085754880)
   </div>
-
   <div style="flex: 2;">
     ### 📊 Linguagens mais usadas
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15)
