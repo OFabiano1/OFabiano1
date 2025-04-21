@@ -62,7 +62,7 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 ----
 
   <!-- Linguagens mais usadas (sem borda) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15" alt="Top Langs" width="250" style="border: none; border-radius: 15px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15" alt="Top Langs" width="350" style="border: none; border-radius: 15px;"/>
 </div>
 
 <!-- GitHub Stats (Maior Linguagem, cor Midnight Purple e sem borda) -->
