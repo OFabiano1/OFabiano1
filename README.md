@@ -55,14 +55,13 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 ###
 
 ## 🎧 Discord + Spotify Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/697615078085754880?theme=dark&animated=true&borderRadius=15px&idleMessage=Offline)](https://discord.com/users/697615078085754880)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/697615078085754880)](https://discord.com/users/697615078085754880)
 
 ## 📈 GitHub Stats
 ![OFabiano1's GitHub stats](https://github-readme-stats.vercel.app/api?username=OFabiano1&show_icons=true&theme=radical&border_radius=15)
 
 ## 📊 Contribuições no último ano
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=OFabiano1&theme=react-dark&hide_border=true&area=true)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OFabiano1&theme=react-dark&hide_border=true&area=true)
 
 ###
 
