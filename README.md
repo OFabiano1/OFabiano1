@@ -51,18 +51,14 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
   </a>
 </p>
 
-<h2 align="center">🪐 Discord + GitHub data</h2>
+### 🎧 Discord Status
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=dark&bg=1e1e2e&animated=true&borderRadius=15px)](https://discord.com/users/697615078085754880)
 
-<p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=dark&bg=1e1e2e&animated=true&borderRadius=15px" alt="Discord Presence" width="390"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15" alt="Top Langs" width="390"/>
-</p>
+### 📊 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OFabiano1&theme=2077" alt="GitHub Summary Card"/>
-</p>
-
-
+### 📈 Contribuições no GitHub
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OFabiano1&theme=2077)
 
 ###
 <br/>
