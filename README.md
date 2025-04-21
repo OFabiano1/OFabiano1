@@ -53,18 +53,29 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 
 ## 🧠 Discord + GitHub Overview
 
-### 🎧 Discord Status
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=dark&bg=1e1e2e&animated=true&borderRadius=15px)](https://discord.com/users/697615078085754880)
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
 
----
+  <!-- Discord Status -->
+  <div style="flex: 1;">
+    <h3>🎧 Discord Status</h3>
+    <a href="https://discord.com/users/697615078085754880">
+      <img src="https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=dark&bg=1e1e2e&animated=true&borderRadius=15px" alt="Discord Presence" />
+    </a>
+  </div>
 
-### 📊 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15)
+  <!-- Linguagens mais usadas -->
+  <div style="flex: 1;">
+    <h3>📊 Linguagens mais usadas</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15" alt="Top Langs"/>
+  </div>
 
----
+</div>
 
-### 📈 Maior Linguagem
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OFabiano1&theme=2077)
+<!-- Maior Linguagem -->
+<div>
+  <h3>📈 Maior Linguagem</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OFabiano1&theme=2077" alt="GitHub Stats"/>
+</div>
 
 
 ###
