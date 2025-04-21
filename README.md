@@ -59,6 +59,8 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
   <img src="https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=midnight-purple&bg=1e1e2e&animated=true&borderRadius=15px" alt="Discord Presence" width="300" style="border-radius: 15px;"/>
 </a>
 
+----
+
   <!-- Linguagens mais usadas (sem borda) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15" alt="Top Langs" width="250" style="border: none; border-radius: 15px;"/>
 </div>
