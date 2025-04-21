@@ -60,12 +60,12 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
   </a>
 
   <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15" alt="Top Langs" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15" alt="Top Langs" width="200"/>
 </div>
 
 <!-- GitHub Stats (Maior Linguagem) -->
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OFabiano1&theme=2077" alt="GitHub Stats" width="500"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OFabiano1&theme=2077" alt="GitHub Stats" width="800"/>
 </div>
 
 ###
