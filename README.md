@@ -56,18 +56,16 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <!-- Discord (cor Midnight Purple, sem borda) -->
 <a href="https://discord.com/users/697615078085754880">
-  <img src="https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=midnight-purple&bg=1e1e2e&animated=true&borderRadius=15px" alt="Discord Presence" width="300" style="border-radius: 15px;"/>
+  <img src="https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=midnight-purple&bg=1e1e2e&animated=true&borderRadius=15px" alt="Discord Presence" width="200" style="border-radius: 15px;"/>
 </a>
 
-----
-
   <!-- Linguagens mais usadas (sem borda) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15" alt="Top Langs" width="350" style="border: none; border-radius: 15px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15" alt="Top Langs" width="250" style="border: none; border-radius: 15px;"/>
 </div>
 
 <!-- GitHub Stats (Maior Linguagem, cor Midnight Purple e sem borda) -->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=OFabiano1&show_icons=true&hide=prs&count_private=true&theme=midnight-purple&border_radius=15" alt="GitHub Stats" width="500" style="border: none; border-radius: 15px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OFabiano1&show_icons=true&hide=prs&count_private=true&theme=midnight-purple&border_radius=15" alt="GitHub Stats" width="400" style="border: none; border-radius: 15px;"/>
 </div>
 
 ###
