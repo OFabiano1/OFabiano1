@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5100FF&width=435&lines=Hello+World!+Eu+sou+o+Fabi!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9645F4&center=true&width=435&lines=Hello+World!+Eu+sou+o+Fabix!)](https://git.io/typing-svg)
 
 ## 💜 Bem-vindo ao meu perfil!</h3>
 - 📫 Entre em contato comigo! **CoolAxolotlCLUB@gmx.com** 
