@@ -54,6 +54,8 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 
 ###
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/697615078085754880?theme=dark&bg=000000)](https://discord.com/users/697615078085754880)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OFabiano1&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
