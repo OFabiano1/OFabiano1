@@ -55,8 +55,7 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 
 ###
 
-![OFabiano1's Stats](https://github-readme-stats.vercel.app/api?username=OFabiano1&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
-![OFabiano1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OFabiano1&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false)
 
 ###
 
