@@ -53,6 +53,8 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 
 ----
 
+## 🧠 Discord + GitHub Overview
+
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <!-- Discord (cor Midnight Purple, sem borda) -->
   <a href="https://discord.com/users/697615078085754880">
@@ -65,8 +67,9 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 
 <!-- GitHub Stats (Maior Linguagem, cor Midnight Purple e sem borda) -->
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OFabiano1&theme=midnight-purple" alt="GitHub Stats" width="800" style="border: none;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OFabiano1&theme=midnight-purple&border_radius=15" alt="GitHub Stats" width="800" style="border: none;"/>
 </div>
+
 
 ###
 <br/>
