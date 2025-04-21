@@ -56,7 +56,7 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <!-- Discord (cor Midnight Purple, sem borda) -->
   <a href="https://discord.com/users/697615078085754880">
-    <img src="https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=midnight-purple&bg=1e1e2e&animated=true&borderRadius=15px" alt="Discord Presence" width="300" style="border: none;"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=midnight-purple&bg=1e1e2e&animated=true&borderRadius=15px" alt="Discord Presence" width="300" style="border-radius: 15px;"/>
   </a>
 
   <!-- Linguagens mais usadas (sem borda) -->
