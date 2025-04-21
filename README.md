@@ -53,7 +53,7 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 
 ----
 
-<div align="center">
+<div>
   <!-- Discord com cor #9645f4 -->
   <a href="https://discord.com/users/697615078085754880">
     <img src="https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=midnight-purple&bg=1e1e2e&animated=true&borderRadius=15px" alt="Discord Presence" width="300" style="border-radius: 15px; border: 4px solid #9645f4;"/>
