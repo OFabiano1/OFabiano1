@@ -51,15 +51,15 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
   </a>
 </p>
 
-## 🧠 Discord + GitHub Overview 
+## 🧠 Discord + GitHub Overview
 
-### 🎧 Discord Status
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; padding-right: 10px;">
+    ### 🎧 Discord Status
     [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=dark&bg=1e1e2e&animated=true&borderRadius=15px)](https://discord.com/users/697615078085754880)
   </div>
 
-  <div style="flex: 2;">
+  <div style="flex: 2; padding-left: 10px;">
     ### 📊 Linguagens mais usadas
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15)
   </div>
