@@ -54,7 +54,13 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 
 ###
 
-![Discord Status](https://lanyard.cnrad.dev/api/697615078085754880)
+{
+  "error": {
+    "code": "user_not_monitored",
+    "message": "User is not being monitored by Lanyard"
+  },
+  "success": false
+}
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OFabiano1&theme=midnight-purple&show_icons=true&hide_border=false&count_private=false)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
