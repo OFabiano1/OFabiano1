@@ -51,19 +51,15 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
   </a>
 </p>
 
+## 🧠 GitHub Summary Cards (Midnight Purple Style)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=dark&bg=1e1e2e&animated=true&borderRadius=15px)](https://discord.com/users/697615078085754880)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OFabiano1&theme=2077)](https://github.com/OFabiano1)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OFabiano1&theme=2077)](https://github.com/OFabiano1)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OFabiano1&theme=2077)](https://github.com/OFabiano1)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OFabiano1&theme=2077)](https://github.com/OFabiano1)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OFabiano1&theme=2077)](https://github.com/OFabiano1)
 
-###
 
-## 🎧 Discord + Spotify Status
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/697615078085754880)](https://discord.com/users/697615078085754880)
-
-## 📈 GitHub Stats
-![OFabiano1's GitHub stats](https://github-readme-stats.vercel.app/api?username=OFabiano1&show_icons=true&theme=radical&border_radius=15)
-
-## 📊 Contribuições no último ano
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OFabiano1&theme=react-dark&hide_border=true&area=true)
-
-###
 
 ###
 <br/>
