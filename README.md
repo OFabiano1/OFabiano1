@@ -67,7 +67,7 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 
 <!-- GitHub Stats (Maior Linguagem, cor Midnight Purple e sem borda) -->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=OFabiano1&show_icons=true&hide=prs&count_private=true&theme=midnight-purple&border_radius=15" alt="GitHub Stats" width="550" style="border: none; border-radius: 15px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OFabiano1&show_icons=true&hide=prs&count_private=true&theme=midnight-purple&border_radius=15" alt="GitHub Stats" width="500" style="border: none; border-radius: 15px;"/>
 </div>
 
 ###
