@@ -56,11 +56,11 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <!-- Discord -->
   <a href="https://discord.com/users/697615078085754880">
-    <img src="https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=dark&bg=1e1e2e&animated=true&borderRadius=15px" alt="Discord Presence" width="250"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=dark&bg=1e1e2e&animated=true&borderRadius=15px" alt="Discord Presence" width="300%"/>
   </a>
 
   <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15" alt="Top Langs" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15" alt="Top Langs" width="200%"/>
 </div>
 
 <!-- GitHub Stats (Maior Linguagem) -->
