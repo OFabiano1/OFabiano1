@@ -52,7 +52,6 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 </p>
 
 ----
-## Discord + GitHub Data
 
 <table>
   <tr>
