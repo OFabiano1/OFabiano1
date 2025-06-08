@@ -52,21 +52,25 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 </p>
 
 ----
-
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  <!-- Discord (cor Midnight Purple, sem borda) -->
-<a href="https://discord.com/users/697615078085754880">
-  <img src="https://lanyard-profile-readme.vercel.app/api/697615078085754880?theme=midnight-purple&bg=000000&animated=true&borderRadius=15px" alt="Discord Presence" width="300" style="border-radius: 15px;"/>
-</a>
-
-  <!-- Linguagens mais usadas (sem borda) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&border_radius=15" alt="Top Langs" width="250" style="border: none; border-radius: 15px;"/>
+<div style="display: flex; flex-direction: column">
+  <div style="display: flex; flex-direction: row;">
+    <a href="https://discord.com/users/166331543378198528">
+      <img
+        style="min-width: 134px; max-height: 134px;"
+        width="320"
+        src="https://lanyard.kyrie25.dev/api/166331543378198528?imgStyle=square&waveColor=9745F5&waveSpotifyColor=9745F5&theme=dark&bg=000000&animated=false&borderRadius=10px&&idleMessage=wow%20my%20spotify%20isn%27t%20playing%20anything%20right%20now?%20Im%20probably%20focused%20on%20my%20code%20then"
+      />
+    </a>
+    <img
+      style="min-width: 160px;"
+      height="160"
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=guustavocl&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    />
+  </div>
+  <div style="display: flex; flex-direction: column">
+    <img
+      width="730"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guustavocl&theme=midnight_purple"
+    />
+  </div>
 </div>
-
-<!-- GitHub Stats (Maior Linguagem, cor Midnight Purple e sem borda) -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=OFabiano1&show_icons=true&hide=prs&count_private=true&theme=midnight-purple&border_radius=15" alt="GitHub Stats" width="550" style="border: none; border-radius: 15px;"/>
-</div>
-
-###
-<br/>
