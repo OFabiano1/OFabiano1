@@ -52,25 +52,23 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
 </p>
 
 ----
-<div style="display: flex; flex-direction: column">
-  <div style="display: flex; flex-direction: row;">
-    <a href="https://discord.com/users/166331543378198528">
-      <img
-        style="min-width: 134px; max-height: 134px;"
-        width="320"
-        src="https://lanyard.kyrie25.dev/api/166331543378198528?imgStyle=square&waveColor=9745F5&waveSpotifyColor=9745F5&theme=dark&bg=000000&animated=false&borderRadius=10px&&idleMessage=wow%20my%20spotify%20isn%27t%20playing%20anything%20right%20now?%20Im%20probably%20focused%20on%20my%20code%20then"
-      />
-    </a>
-    <img
-      style="min-width: 160px;"
-      height="160"
-      src="https://github-readme-streak-stats-eight.vercel.app/?user=guustavocl&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-    />
-  </div>
-  <div style="display: flex; flex-direction: column">
-    <img
-      width="730"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guustavocl&theme=midnight_purple"
-    />
-  </div>
+## Discord + GitHub Data
+
+<table>
+  <tr>
+    <td>
+      <a href="https://discord.com/users/697615078085754880">
+        <img src="https://lanyard.kyrie25.dev/api/697615078085754880?imgStyle=square&waveColor=9745F5&waveSpotifyColor=9745F5&theme=dark&bg=000000&animated=false&borderRadius=10px&&idleMessage=wow%20my%20spotify%20isn%27t%20playing%20anything%20right%20now?%20Im%20probably%20focused%20on%20my%20code%20then" width="320" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=OFabiano1&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="160" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OFabiano1&theme=midnight_purple" width="730" />
+    </td>
+  </tr>
+</table>
 </div>
