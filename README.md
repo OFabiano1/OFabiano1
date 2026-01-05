@@ -9,7 +9,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Logo do Cool Axolotl CLUB" src="https://i.postimg.cc/Y0KMwV8T/xd.png"/>](https://dsc.gg/axolote)
 
 **Dono** \
-[**Cool Axolotl CLUB**](https://dsc.gg/axolote ) •  \
+[**Axolotl BR**](https://dsc.gg/axolote ) •  \
 Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js` 
 
 ###
