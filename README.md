@@ -39,7 +39,7 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`, `Node.js`
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   </a>
 
-<!-- ⚙️ Ferramentas e Ambientes -->
+<!-- ⚙️ ambiente -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
