@@ -64,6 +64,33 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
 
 ---
 
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Axolotl-BR&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axolotl-BR&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Axolotl-BR&theme=midnight-purple&hide_border=true" width="730"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Axolotl-BR&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1" width="730"/>
+</p>
+
+## 📈 Contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axolotl-BR&theme=github-compact&hide_border=true&area=true" width="730"/>
+</p>
+
+---
+
 <p align="center">
   <strong>🫟 Axolotl BR</strong>
   <br>
@@ -73,3 +100,4 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
   <br>
   Todos os direitos reservados.
 </p>
+
