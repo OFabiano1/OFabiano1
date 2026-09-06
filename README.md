@@ -1,17 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=9645F4&center=true&multiline=true&width=435&height=30&lines=Hello+World!+Eu+sou+o+Fab!*!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&pause=1000\&color=9645F4\&center=true\&multiline=true\&width=435\&height=30\&lines=Hello+World!+Eu+sou+o+Axolotl+BR!)](https://git.io/typing-svg)
 
-## 🫟 Bem-vindo ao meu perfil
+## 🫟 Bem-vindo ao Axolotl BR
 
-- 📫 Entre em contato comigo! **CoolAxolotlCLUB@gmx.com**
+**Sua comunidade na internet. De player para player.**
 
-### 🛠️ Experiência de trabalho
+* 📫 Entre em contato conosco! **[CoolAxolotlCLUB@gmx.com](mailto:CoolAxolotlCLUB@gmx.com)**
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+### 🛠️ Sobre o Axolotl BR
 
-[<img align="left" height="94px" width="94px" alt="Logo do Cool Axolotl CLUB" src="https://i.postimg.cc/Y0KMwV8T/xd.png"/>](https://dsc.gg/axolote)
+Na visão geral abaixo você encontrará nossos projetos e tecnologias:
 
-**Dono** \
-[**Axolotl BR**](https://dsc.gg/axolotlbr) •  \
+[<img align="left" height="94px" width="94px" alt="Logo do Axolotl BR" src="https://i.postimg.cc/Y0KMwV8T/xd.png"/>](https://dsc.gg/axolotlbr)
+
+**Axolotl BR** 
+[**Sua comunidade na internet**](https://dsc.gg/axolotlbr) • 
 Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
 
 <br clear="both"/>
@@ -21,6 +23,7 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
 <h3 align="left">💻 Linguagens e Ferramentas</h3>
 
 <!-- 🌐 Desenvolvimento Web -->
+
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a>
@@ -29,6 +32,7 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
 </a>
 
 <!-- 🧠 Linguagens de Programação -->
+
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
@@ -40,6 +44,7 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
 </a>
 
 <!-- ⚙️ Ambiente -->
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
@@ -56,3 +61,15 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <strong>🫟 Axolotl BR</strong>
+  <br>
+  Sua comunidade na internet. De player para player.
+  <br><br>
+  Powered by <strong>Axolotl BR</strong> © 2020 - 2026 by Fabi
+  <br>
+  Todos os direitos reservados.
+</p>
