@@ -54,39 +54,29 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
 
 ---
 
-<table>
-  <tr>
-    <td colspan="2">
-      <img src="https://camo.githubusercontent.com/2a3aa07fea7216ca53d4363c04d0b9d214f5d9f3ab26dc440ed89974da5c2de0/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d4f46616269616e6f31267468656d653d6d69646e696768745f707572706c65" width="730" />
-    </td>
-  </tr>
-</table>
-
----
-
 ---
 
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axolotl-BR&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axolotl-BR&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OFabiano1&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Axolotl-BR&theme=midnight-purple&hide_border=true" width="730"/>
+  <img src="https://streak-stats.demolab.com?user=OFabiano1&theme=midnight-purple&hide_border=true" width="730"/>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Axolotl-BR&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1" width="730"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=OFabiano1&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1" width="730"/>
 </p>
 
 ## 📈 Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axolotl-BR&theme=github-compact&hide_border=true&area=true" width="730"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OFabiano1&theme=github-compact&hide_border=true&area=true" width="730"/>
 </p>
 
 ---
