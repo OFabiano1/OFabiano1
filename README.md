@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&pause=1000\&color=9645F4\&center=true\&multiline=true\&width=435\&height=30\&lines=Hello+World!+Eu+sou+o+Axolotl+BR!)](https://git.io/typing-svg)
-
 ## 🫟 Bem-vindo ao meu perfil!
 
 ---
@@ -15,12 +13,6 @@ Na visão geral abaixo você encontrará nossos projetos e tecnologias:
 **Axolotl BR** 
 [**Axolotl BR**](https://dsc.gg/axolotlbr) • 
 Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
-
-<br clear="both"/>
-
----
-
-<h3 align="left">💻 Linguagens e Ferramentas</h3>
 
 <!-- 🌐 Desenvolvimento Web -->
 
