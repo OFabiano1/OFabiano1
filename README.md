@@ -8,17 +8,28 @@
 
 ### 🛠️ Experiência de trabalho
 
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
 [<img align="left" height="94px" width="94px" alt="Logo do Cool Axolotl CLUB" src="https://i.postimg.cc/Y0KMwV8T/xd.png"/>](https://dsc.gg/axolote)
 
 **Dono** \
 [**Axolotl BR**](https://dsc.gg/axolote) •  \
-Linguagens & Tecnologias: `Python` `C++` `JavaScript` `Node.js`
+Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
 
 <br clear="both"/>
 
 ---
 
-### 💻 Linguagens e Ferramentas
+### 👨‍💻 Sobre mim
+
+- 🔭 Trabalhando no **Axolotl BR**
+- 🌱 Sempre aprendendo coisas novas
+- 💜 Fã de axolotes e tecnologia
+- ⚡ Curiosidade: poxa, eu só uso Linux
+
+---
+
+<h3 align="left">💻 Linguagens e Ferramentas</h3>
 
 <!-- 🌐 Desenvolvimento Web -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -26,9 +37,6 @@ Linguagens & Tecnologias: `Python` `C++` `JavaScript` `Node.js`
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a>
 
 <!-- 🧠 Linguagens de Programação -->
@@ -46,21 +54,34 @@ Linguagens & Tecnologias: `Python` `C++` `JavaScript` `Node.js`
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-</a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
 
 ---
 
+### 📊 Estatísticas do GitHub
+
 <table>
   <tr>
     <td colspan="2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OFabiano1&theme=midnight_purple" width="730" />
+      <img src="https://camo.githubusercontent.com/2a3aa07fea7216ca53d4363c04d0b9d214f5d9f3ab26dc440ed89974da5c2de0/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d4f46616269616e6f31267468656d653d6d69646e696768745f707572706c65" width="730" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=OFabiano1&show_icons=true&theme=midnight_purple&locale=pt-br" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight_purple&locale=pt-br" />
     </td>
   </tr>
 </table>
+
+---
+
+### 🏆 Conquistas
+
+<img src="https://github-profile-trophy.vercel.app/?username=OFabiano1&theme=midnight_purple&no-frame=true&row=2&column=4" width="730" />
 
 </div>
