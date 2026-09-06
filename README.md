@@ -1,5 +1,3 @@
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=9645F4&center=true&multiline=true&width=435&height=30&lines=Hello+World!+Eu+sou+o+Fabix!)](https://git.io/typing-svg)
 
 ## 💜 Bem-vindo ao meu perfil!
@@ -58,5 +56,3 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
     </td>
   </tr>
 </table>
-
-</div>
