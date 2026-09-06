@@ -20,15 +20,6 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
 
 ---
 
-### 👨‍💻 Sobre mim
-
-- 🔭 Trabalhando no **Axolotl BR**
-- 🌱 Sempre aprendendo coisas novas
-- 💜 Fã de axolotes e tecnologia
-- ⚡ Curiosidade: poxa, eu só uso Linux
-
----
-
 <h3 align="left">💻 Linguagens e Ferramentas</h3>
 
 <!-- 🌐 Desenvolvimento Web -->
@@ -60,28 +51,12 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
 
 ---
 
-### 📊 Estatísticas do GitHub
-
 <table>
   <tr>
     <td colspan="2">
       <img src="https://camo.githubusercontent.com/2a3aa07fea7216ca53d4363c04d0b9d214f5d9f3ab26dc440ed89974da5c2de0/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d4f46616269616e6f31267468656d653d6d69646e696768745f707572706c65" width="730" />
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=OFabiano1&show_icons=true&theme=midnight_purple&locale=pt-br" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight_purple&locale=pt-br" />
-    </td>
-  </tr>
 </table>
-
----
-
-### 🏆 Conquistas
-
-<img src="https://github-profile-trophy.vercel.app/?username=OFabiano1&theme=midnight_purple&no-frame=true&row=2&column=4" width="730" />
 
 </div>
