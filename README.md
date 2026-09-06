@@ -50,7 +50,7 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
 ---
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=8&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=8&theme=midnight-purple)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=6&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=6&theme=midnight-purple)
 
 ---
 
