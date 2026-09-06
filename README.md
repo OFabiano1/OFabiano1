@@ -12,7 +12,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Dono** \
 [**Axolotl BR**](https://dsc.gg/axolotlbr) •  \
-**✦ Sua comunidade na internet. de player para player* ** 
 Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
 
 <br clear="both"/>
