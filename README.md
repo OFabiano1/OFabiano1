@@ -6,13 +6,15 @@
 
 ### 🛠️ Experiencias de trabalho
 
-Na visão geral abaixo você encontrará nossos projetos e tecnologias:
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Logo do Axolotl BR" src="https://i.postimg.cc/Y0KMwV8T/xd.png"/>](https://dsc.gg/axolotlbr)
+[<img align="left" height="94px" width="94px" alt="Logo do Axolotl BR" src="https://i.postimg.cc/Y0KMwV8T/xd.png"/>](https://dsc.gg/axolote)
 
-**Axolotl BR** 
+**Dono** 
 [**Axolotl BR**](https://dsc.gg/axolotlbr) • 
 Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
+
+<br clear="both"/>
 
 <!-- 🌐 Desenvolvimento Web -->
 
