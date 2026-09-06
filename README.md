@@ -56,6 +56,7 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
     </td>
   </tr>
 </table>
+
 ---
 
 <p align="center">
