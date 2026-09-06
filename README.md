@@ -49,12 +49,7 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
 
 ---
 
-<table>
-  <tr>
-    <td colspan="2">
-      <img src="https://camo.githubusercontent.com/2a3aa07fea7216ca53d4363c04d0b9d214f5d9f3ab26dc440ed89974da5c2de0/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d4f46616269616e6f31267468656d653d6d69646e696768745f707572706c65" width="730" />
-    </td>
-  </tr>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple)
 </table>
 
 ---
