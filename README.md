@@ -52,15 +52,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OFabiano1&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="180"/>
-</p>
-
----
-
 <p align="center">
   <strong>🫟 Axolotl BR</strong>
   <br>
