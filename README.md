@@ -1,19 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&pause=1000\&color=9645F4\&center=true\&multiline=true\&width=435\&height=30\&lines=Hello+World!+Eu+sou+o+Axolotl+BR!)](https://git.io/typing-svg)
 
-## 🫟 Bem-vindo ao Axolotl BR
+## 🫟 Bem-vindo ao meu perfil!
 
-**Sua comunidade na internet. De player para player.**
+---
 
 * 📫 Entre em contato conosco! **[CoolAxolotlCLUB@gmx.com](mailto:CoolAxolotlCLUB@gmx.com)**
 
-### 🛠️ Sobre o Axolotl BR
+### 🛠️ Experiencias de trabalho
 
 Na visão geral abaixo você encontrará nossos projetos e tecnologias:
 
 [<img align="left" height="94px" width="94px" alt="Logo do Axolotl BR" src="https://i.postimg.cc/Y0KMwV8T/xd.png"/>](https://dsc.gg/axolotlbr)
 
 **Axolotl BR** 
-[**Sua comunidade na internet**](https://dsc.gg/axolotlbr) • 
+[**Axolotl BR**](https://dsc.gg/axolotlbr) • 
 Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
 
 <br clear="both"/>
