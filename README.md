@@ -54,23 +54,6 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OFabiano1&show_icons=true&theme=midnight-purple&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFabiano1&layout=compact&theme=midnight-purple&hide_border=true" height="180"/>
-</p>
-
----
-
-<table>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=OFabiano1&show_icons=true&theme=midnight-purple&hide_border=true" width="730" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 <p align="center">
