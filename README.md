@@ -64,15 +64,6 @@ Linguagens & Tecnologias: `Python`, `C++`, `JavaScript`
 
 ---
 
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axolotl-BR&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axolotl-BR&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="180"/>
-</p>
-
 <p align="center">
   <strong>🫟 Axolotl BR</strong>
   <br>
