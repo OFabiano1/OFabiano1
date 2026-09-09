@@ -15,6 +15,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Axolotl BR**](https://dsc.gg/axolote) •  \
 Linguagens & Tecnologias: `Python`, `C++`, `JavaScript` 
 
+<br clear="both"/>
+
 [<img align="left" height="94px" width="94px" alt="farmscale" src="https://i.postimg.cc/pLnFVs4V/Slide1.png"/>](https://farmascale.com.br/)
 **Jovem aprendiz** \
 [**FarmaScale**](https://farmascale.com.br/) •  \
