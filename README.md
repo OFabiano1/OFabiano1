@@ -2,8 +2,8 @@
 
 ## 💜 Bem-vindo ao meu perfil!
 
-- 📫 Entre em contato comigo! **CoolAxolotlCLUB@gmx.com**
-- 🔮 Portfólio - https://ofabiano1.github.io/fabi.xd/
+- 📫 Entre em contato comigo! **axolotlbr.gg@gmail.com**
+- 🔮 Portfólio - **https://ofabiano1.github.io/fabi.xd/**
 
 ### 🛠️ Experiência de trabalho
 
