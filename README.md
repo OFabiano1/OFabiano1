@@ -28,6 +28,32 @@ Linguagens & Tecnologias:
 
 <h3 align="left">💻 Linguagens e Ferramentas</h3>
 
+<!-- 🌐 Desenvolvimento Web -->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+
+<!-- 🧠 Linguagens de Programação -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+</a>
+
+<!-- ⚙️ Ambiente -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -46,10 +72,8 @@ Linguagens & Tecnologias:
 
 ---
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/OFabiano1/OFabiano1/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1&custom_title=%E2%9C%A6%20FABI" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/OFabiano1/OFabiano1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=midnight-purple&hide_border=false&order=2&custom_title=%E2%9C%A6%20most%20used%20languages" height="150" alt="languages graph"  />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=6&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=6&theme=midnight-purple)
 
 ---
 
