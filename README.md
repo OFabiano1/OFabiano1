@@ -44,9 +44,9 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=4c4spy8obbl3zno3sz07xiye9&theme=dracula&count=1&width=500&radius=8&unique=1&album=1&bg_color=000000&artist_color=9745f5)
-
 ---
+
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=4c4spy8obbl3zno3sz07xiye9&theme=dracula&count=1&width=500&radius=8&unique=1&album=1&bg_color=000000&artist_color=9745f5)
 
 <table>
   <tr>
