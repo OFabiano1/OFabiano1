@@ -20,7 +20,7 @@ Linguagens & Tecnologias: `Python`, `C#`, `Kotlin`.
 [<img align="left" height="94px" width="94px" alt="farmscale" src="https://i.postimg.cc/L5tm0Z0r/discotools-xyz-icon.png"/>](https://farmascale.com.br/)
 **Programador** \
 [**FarmaScale**](https://farmascale.com.br/) •  \
-Linguagens & Tecnologias:`React`, `PHP`.
+Linguagens & Tecnologias: `React`, `PHP`.
 
 <br clear="both"/>
 
