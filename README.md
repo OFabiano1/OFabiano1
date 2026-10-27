@@ -13,14 +13,14 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Dono** \
 [**Axolotl BR**](https://dsc.gg/axolote) •  \
-Linguagens & Tecnologias: `Python`, `C+`, `JavaScript` 
+Linguagens & Tecnologias: `Python`, `C#`, `Kotlin`. 
 
 <br clear="both"/>
 
 [<img align="left" height="94px" width="94px" alt="farmscale" src="https://i.postimg.cc/L5tm0Z0r/discotools-xyz-icon.png"/>](https://farmascale.com.br/)
 **Programador** \
 [**FarmaScale**](https://farmascale.com.br/) •  \
-Linguagens & Tecnologias: 
+Linguagens & Tecnologias:`React`, `PHP`.
 
 <br clear="both"/>
 
