@@ -13,7 +13,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Dono** \
 [**Axolotl BR**](https://dsc.gg/axolote) •  \
-Linguagens & Tecnologias: `Python`, `C++`, `JavaScript` 
+Linguagens & Tecnologias: `Python`, `C+`, `JavaScript` 
 
 <br clear="both"/>
 
