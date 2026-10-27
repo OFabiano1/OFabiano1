@@ -55,7 +55,7 @@ Linguagens & Tecnologias:
     </td>
     <td>
       <a href="https://github-stats-extended.vercel.app">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=6&custom_title=%E2%9C%A6%20linguagens%20mais%20usadas&theme=midnight-purple" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=8&custom_title=%E2%9C%A6%20linguagens%20mais%20usadas&theme=midnight-purple" />
       </a>
     </td>
   </tr>
