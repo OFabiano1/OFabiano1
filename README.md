@@ -28,6 +28,23 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 ---
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github-stats-extended.vercel.app">
+        <img src="https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&custom_title=%E2%9C%A6%20FABI&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github-stats-extended.vercel.app">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=8&custom_title=%E2%9C%A6%20linguagens%20mais%20usadas&theme=midnight-purple" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 <h3 align="left">💻 Linguagens e Ferramentas</h3>
 
 <div data-importer="techs" align="left">
@@ -45,23 +62,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-
----
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github-stats-extended.vercel.app">
-        <img src="https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&custom_title=%E2%9C%A6%20FABI&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github-stats-extended.vercel.app">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=8&custom_title=%E2%9C%A6%20linguagens%20mais%20usadas&theme=midnight-purple" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
