@@ -39,6 +39,7 @@ Linguagens & Tecnologias:
 
 <br clear="both"/>
 
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=4c4spy8obbl3zno3sz07xiye9&theme=dracula&count=1&radius=5&unique=1&album=1)
 ---
 
 <h3 align="left">💻 Linguagens e Ferramentas</h3>
