@@ -46,8 +46,11 @@ Linguagens & Tecnologias:
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=6&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=6&theme=midnight-purple)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&custom_title=%E2%9C%A6%20FABI&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&custom_title=%E2%9C%A6%20FABI&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple)
+
+### ✦ linguagens mais usadas
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=6&hide_title=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=6&hide_title=true&theme=midnight-purple)
 
 ---
 
