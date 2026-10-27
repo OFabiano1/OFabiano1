@@ -24,25 +24,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 <br clear="both"/>
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=4c4spy8obbl3zno3sz07xiye9&theme=dracula&count=1&width=500&radius=8&unique=1&album=1&bg_color=000000&artist_color=9745f5)
-
----
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github-stats-extended.vercel.app">
-        <img src="https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&custom_title=%E2%9C%A6%20FABI&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github-stats-extended.vercel.app">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=8&custom_title=%E2%9C%A6%20linguagens%20mais%20usadas&theme=midnight-purple" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 <h3 align="left">💻 Linguagens e Ferramentas</h3>
@@ -62,6 +43,26 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
+
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=4c4spy8obbl3zno3sz07xiye9&theme=dracula&count=1&width=500&radius=8&unique=1&album=1&bg_color=000000&artist_color=9745f5)
+
+---
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github-stats-extended.vercel.app">
+        <img src="https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&custom_title=%E2%9C%A6%20FABI&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github-stats-extended.vercel.app">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=8&custom_title=%E2%9C%A6%20linguagens%20mais%20usadas&theme=midnight-purple" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
