@@ -12,13 +12,13 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Logo do Cool Axolotl CLUB" src="https://i.postimg.cc/Y0KMwV8T/xd.png"/>](https://dsc.gg/axolote)
 
 **Dono** \
-[**Axolotl BR**](https://dsc.gg/axolote) •  \`Python`, `C#`, `Kotlin`. 
+[**Axolotl BR**](https://dsc.gg/axolote) •  `Python`, `C#`, `Kotlin`. 
 
 <br clear="both"/>
 
 [<img align="left" height="94px" width="94px" alt="farmscale" src="https://i.postimg.cc/L5tm0Z0r/discotools-xyz-icon.png"/>](https://farmascale.com.br/)
 **Programador** \
-[**FarmaScale**](https://farmascale.com.br/) •  \`React`, `PHP`.
+[**FarmaScale**](https://farmascale.com.br/) •  `React`, `PHP`.
 
 <br clear="both"/>
 
