@@ -5,7 +5,7 @@
 - 📫 Entre em contato comigo! **axolotlbr.gg@gmail.com**
 - 🔮 Portfólio - **https://ofabiano1.github.io/fabi.xd/**
 
-- <div data-importer="socials" align="left">
+<div data-importer="socials" align="left">
   <a href="https://discord.gg/8WtmZTySdB" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
