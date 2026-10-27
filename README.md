@@ -46,9 +46,11 @@ Linguagens & Tecnologias:
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=OFabiano1&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=midnight-purple)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=6&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=OFabiano1&layout=compact&langs_count=6&theme=midnight-purple)
-
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/OFabiano1/OFabiano1/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1&custom_title=%E2%9C%A6%20FABI" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/OFabiano1/OFabiano1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=midnight-purple&hide_border=false&order=2&custom_title=%E2%9C%A6%20most%20used%20languages" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=OFabiano1&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
 ---
 
 <p align="center">
